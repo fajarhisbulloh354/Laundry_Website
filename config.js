@@ -8,7 +8,7 @@ const laundryConfig = {
     alamat: "Madiun, Jawa Timur",
     jamBuka: "08.00 - 21.00",
 
-    warnaUtama: "#4282f7",
+    warnaUtama: "#6687fd",
     warnaSekunder: "#1dd442",
 
     mapsUrl: "https://maps.app.goo.gl/3HBzzT5yKQ18BgAC8",

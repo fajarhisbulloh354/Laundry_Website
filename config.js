@@ -1,17 +1,17 @@
 const laundryConfig = {
-    nama: "Parapapa Laundry",
+    nama: "Cleanplus Gold Laundry",
     slogan: "Laundry Bersih, Wangi & Terpercaya",
     deskripsi:
         "Solusi laundry profesional dengan pelayanan cepat, bersih, wangi, dan terpercaya.",
 
-    whatsapp: "6287892577992",
+    whatsapp: "6281281738289",
     alamat: "Madiun, Jawa Timur",
     jamBuka: "08.00 - 21.00",
 
     warnaUtama: "#4282f7",
     warnaSekunder: "#1dd442",
 
-    mapsUrl: "https://maps.app.goo.gl/GiGkmcrGehoUxssd7",
+    mapsUrl: "https://maps.app.goo.gl/3HBzzT5yKQ18BgAC8",
     mapsEmbed:
         "https://www.google.com/maps/embed?pb=XXXXXXXX",
 
